@@ -2,7 +2,7 @@
 
 - [Demo Project](https://aida-mousavi.github.io/Pizza/)
 
-- Developed by Aida Mousavi
+- Developed by Eslam Raafat
 
 - Created - 2023-11
 
@@ -10,4 +10,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/dev.mousavi) and [linkedin](www.linkedin.com/in/aida-mousavi-18791a292)
+- How to reach me : with my [instagram](https://www.instagram.com/eslam.raafat.1998/?hl=en) and [linkedin](https://www.linkedin.com/in/eslam-raafat-b465561b8/)
